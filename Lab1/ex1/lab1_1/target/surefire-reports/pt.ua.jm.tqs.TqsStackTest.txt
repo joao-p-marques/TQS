@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: pt.ua.jm.tqs.TqsStackTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.014 s <<< FAILURE! - in pt.ua.jm.tqs.TqsStackTest
+pt.ua.jm.tqs.TqsStackTest  Time elapsed: 0.012 s  <<< ERROR!
+org.junit.platform.commons.JUnitException: @BeforeAll method 'void pt.ua.jm.tqs.TqsStackTest.setup()' must be static unless the test class is annotated with @TestInstance(Lifecycle.PER_CLASS).
+
